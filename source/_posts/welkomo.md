@@ -4,3 +4,4 @@ tags: hello
 ---
 
 Welkomo, this is windkomo's blog. very windy here. ^^
+update
