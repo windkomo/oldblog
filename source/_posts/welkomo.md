@@ -5,4 +5,4 @@ categories: blog
 ---
 
 Welkomo ! This is my first post.
-This blog will contain posts about things I like in life : video games, web development and maybe a few minor subjects : health, food, sports...
+This blog will contain posts about my favorite things : video games, web development, health.. Stay tuned !
