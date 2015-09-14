@@ -13,7 +13,7 @@ I began to play this a few weeks ago on my SD2SNES (best birthday gift ever, tha
 
 I hadn't heard much about the game, but I kind of remembered someone saying it was quite good.
 
-A few minutes in, classic intro scene show hero bow Aleth taken in and raised by a High Priest of some castle. He becomes best buddy with Lagnus, crown prince of the castle he lives in.
+A few minutes in, classic intro scene shows hero boy Aleth taken in and raised by a High Priest of some castle. He then becomes best buddy with Lagnus, crown prince of the castle he lives in.
 Lagnus is hot headed and loves to spar. Aleth is more on the gentle, noble, cooler side (maybe because he's silent...).
 
 Graphics are somewhat decent, looking like a sub-par FF6 (some house textures look very similar).
@@ -23,7 +23,7 @@ Looking good so far.
 
 ### Then not so good
 
-After a little while comes the first battles. The game switches to a Suikoden like view in the sense that character are taller and looked at from behind in the lower left corner while ennemies are facing you in the upper right corner.
+After a little while come the first battles. The game switches to a Suikoden like view in the sense that characters are taller and looked at from behind in the lower left corner while enemies are facing you in the upper right corner.
 
 Ok. The battle music is annoying. Especially the trumpet part. Excluding that part it's acceptable.
 But it's the only battle theme of the entire game. That's right, even bosses, even the FINAL boss has the same crappy battle music. Even NES games had boss battle themes ! It might seem like a minor detail, but it really makes boss battles underwhelming. That's not acceptable.
