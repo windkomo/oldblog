@@ -6,6 +6,7 @@ categories: games
 
 # Dual Orb II
 
+![Dual Orb II cover image](../images/dualorblogo.gif "Dual Orb II")
 
 ### It was looking good
 
